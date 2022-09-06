@@ -1,76 +1,14 @@
-{
-  "transactions": [
-    {
-      "name": "Pendrive",
-      "amount": "500",
-      "type": "expense",
-      "id": 3
-    },
-    {
-      "name": "Salary",
-      "type": "income",
-      "amount": 20000,
-      "id": 4
-    },
-    {
-      "name": "ww",
-      "type": "income",
-      "amount": 2323,
-      "id": 5
-    },
-    {
-      "name": "sdfdsf",
-      "type": "income",
-      "amount": 34444,
-      "id": 6
-    },
-    {
-      "name": "Tahmid",
-      "type": "income",
-      "amount": 4444,
-      "id": 7
-    },
-    {
-      "name": "Testing",
-      "amount": 2000,
-      "type": "income",
-      "id": 8
-    },
-    {
-      "name": "New Test",
-      "amount": 233,
-      "type": "income",
-      "id": 9
-    },
-    {
-      "name": "Md. Ahanaf Tahmid Islam",
-      "type": "income",
-      "amount": 233,
-      "id": 10
-    },
-    {
-      "name": "Hanif Islam",
-      "type": "income",
-      "amount": 333,
-      "id": 11
-    },
-    {
-      "name": "Juice",
-      "type": "expense",
-      "amount": 466,
-      "id": 12
-    },
-    {
-      "name": "New",
-      "type": "income",
-      "amount": 444,
-      "id": 13
-    },
-    {
-      "name": "Jub",
-      "type": "expense",
-      "amount": 3488,
-      "id": 14
-    }
-  ]
-}
+[
+  {
+    "name": "Pendrive",
+    "amount": "500",
+    "type": "expense",
+    "id": 1
+  },
+  {
+    "name": "Salary",
+    "type": "income",
+    "amount": 20000,
+    "id": 2
+  }
+]
